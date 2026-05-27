@@ -1,0 +1,6 @@
+{
+  "name": "CodeNotes",
+  "description": "Un bloc de notas elegante y completo diseñado para programadores, que permite organizar, buscar y guardar fragmentos de código de cualquier lenguaje.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
